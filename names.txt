@@ -15,11 +15,12 @@ Greg Nola
 Reece Rhodes
 Juliano Levier-Gomes
 Braxden Hanzelka
-<<<<<<< HEAD
 Rachel Luker
-=======
 ryan kupka
 Preston Haynes
+<<<<<<< HEAD
 Benjamin Stover
+=======
+Justin Chong
+>>>>>>> b266c30a7b6555f667c9f3e644864b48b1c7193a
 
->>>>>>> 4cde88f0110535993c517a91246a9115147c9817
