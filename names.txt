@@ -15,4 +15,10 @@ Greg Nola
 Reece Rhodes
 Juliano Levier-Gomes
 Braxden Hanzelka
+<<<<<<< HEAD
 Rachel Luker
+=======
+ryan kupka
+Preston Haynes
+
+>>>>>>> 4cde88f0110535993c517a91246a9115147c9817
